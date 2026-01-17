@@ -1,0 +1,13 @@
+book_id,title,author,genre,price,stock_quantity
+1,The Silent Patient,Alex Michaelides,Thriller,14.99,120
+2,Atomic Habits,James Clear,Self-Help,18.5,200
+3,Educated,Tara Westover,Memoir,16.99,80
+4,Sapiens,Yuval Noah Harari,History,22.0,60
+5,1984,George Orwell,Fiction,12.99,150
+6,The Alchemist,Paulo Coelho,Fiction,13.49,140
+7,Deep Work,Cal Newport,Productivity,19.99,90
+8,Becoming,Michelle Obama,Biography,21.5,75
+9,Clean Code,Robert C. Martin,Technology,32.99,50
+10,"Thinking, Fast and Slow",Daniel Kahneman,Psychology,17.99,110
+11,Rich Dad Poor Dad,Robert Kiyosaki,Finance,15.99,130
+12,Start With Why,Simon Sinek,Business,18.99,95
