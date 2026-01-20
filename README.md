@@ -16,7 +16,7 @@ The analysis covers **database design, data cleaning, validation, and business-f
 ---
 
 ## Database Structure
--File: ![Dataset]()
+-File: 🔗[Dataset]()
 ### 1. Customers Table
 Stores customer demographic and signup information.
 
@@ -450,3 +450,8 @@ ORDER BY total_spent DESC;
              group by title
              having sum(o.quantity)>(select avg(quantity) from orders);
 ```
+## 🤝 Let’s Connect
+   📬 Author 
+Ogolo lucky -  Data Analyst  
+  - 💼 🔗[LinkedIn](www.linkedin.com/in/lucky-ogolo/)
+  - 📧 🔗[Email](luuckyyyy@gmail.com) 
