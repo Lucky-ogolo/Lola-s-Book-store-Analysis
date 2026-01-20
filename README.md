@@ -16,7 +16,6 @@ The analysis covers **database design, data cleaning, validation, and business-f
 ---
 
 ## Database Structure
--File: 🔗[Dataset]()
 ### 1. Customers Table
 Stores customer demographic and signup information.
 
